@@ -8,4 +8,4 @@
 <p>Level 1-5 Earning Platform</p>
 <a href="#">Register</a>
 </body>
-</html>
+</html
