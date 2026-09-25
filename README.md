@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Peterz Earn</title>
-</head>
-<body>
-<h1>Welcome to Peterz Earn</h1>
-<p>Level 1-5 Earning Platform</p>
-<a href="#">Register</a>
-</body>
-</html
+# Peterz Services
+
+Welcome to Peterz Services referral program.
+
+We offer digital services: Posters, Websites, WhatsApp Marketing.
+
+Earn 20% commission for every client you refer. Payment via M-Pesa.
+
+Contact: wa.me/254743549290
+
+This is not an investment, no fee to join.
